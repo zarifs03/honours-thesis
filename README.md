@@ -9,7 +9,6 @@ This dissertation explores the use of Large Language Models (LLMs) to predict pe
 - **MedGemma-27B-text-it** (domain-specific medical model) consistently outperformed **Llama-3.1-8B-Instruct** (general-purpose model) on ASA-PS classification tasks
 - Few-shot Chain-of-Thought (CoT) prompting achieved the best performance (42.6% accuracy)
 - Domain-specific pretraining and structured reasoning significantly improved clinical prediction accuracy
-- Both models struggled with heavily imbalanced datasets (rare adverse events)
 
 ## Tasks Evaluated
 
